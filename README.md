@@ -21,7 +21,7 @@
 
 ---
   ## Description
-  Budget Tracker is a simple Progressive Web App (PWA) that allows a user to budged their spending. The unique thing about this app is that a user can add expenses and deposits even without an internet/data connection. I was able to achieve this offline capability by incorporating PWA tools like Manifest, Service Worker, and IndexedDB storage. This app was a project in my Coding Bootcamp
+  Budget Tracker is a simple Progressive Web App (PWA) that allows a user to budged their spending. The unique thing about this app is that a user can add expenses and deposits even without an internet/data connection. I was able to achieve this offline capability by incorporating PWA tools like Manifest, Service Worker, and IndexedDB storage. I worked on this app as a project in UC Davis Coding Bootcamp for the purpose of demonstrating my ability to work with JavaScript, MongoDB, Mongoose, Express, Manifest, Service Workers, and IndexedDB. 
 ## Table of Contents 
   * [Installation](#installation)
   * [Usage](#usage)
